@@ -22,7 +22,7 @@
       </uap:VisualElements>
       <Extensions>
         <uap3:Extension Category="windows.appExtension">
-          <uap3:AppExtension Name="build2016.appextensibility.demo" Id="base" PublicFolder="Public" DisplayName="Rotate Right" Description="Rotate Image 90 CW" />
+          <uap3:AppExtension Name="build2016.appextensibility" Id="base" PublicFolder="Public" DisplayName="Rotate Right" Description="Rotate Image 90 CW" />
         </uap3:Extension>
         <uap3:Extension Category="windows.appExtension">
           <uap3:AppExtension Name="build2016.appextensibility.demo" Id="base2" PublicFolder="Public2" DisplayName="Rotate Left" Description="Rotate Image 90 CCW" />
