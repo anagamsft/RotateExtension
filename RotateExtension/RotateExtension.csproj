@@ -21,6 +21,7 @@
     <PackageCertificateKeyFile>RotateExtension_TemporaryKey.pfx</PackageCertificateKeyFile>
     <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
     <AppxBundle>Never</AppxBundle>
+    <PackageCertificateThumbprint>B75F30A37FECC93D0F80424926B73B09945F0061</PackageCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
     <DebugSymbols>true</DebugSymbols>
